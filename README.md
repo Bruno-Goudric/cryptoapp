@@ -1,4 +1,4 @@
-# Covid-19 Tracker - Estudo de Caso
+# CryptoApp - Estudo
 
 ![](public/cryptoapp.png)
 
